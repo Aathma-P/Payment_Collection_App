@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Payment Collection App",
+    "slug": "payment-collection-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#007AFF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.paymentcollection.app"
+    },
+    "android": {
+      "package": "com.paymentcollection.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#007AFF"
+      }
+    },
+    "plugins": []
+  }
+}
