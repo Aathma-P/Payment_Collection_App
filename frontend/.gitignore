@@ -17,6 +17,6 @@ web-build/
 .env
 .env.local
 
-IMPLEMENTATION.md
-SETUP.md
-START_HERE.md
+.IMPLEMENTATION.md
+.SETUP.md
+.START_HERE.md
